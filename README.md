@@ -1,6 +1,6 @@
 ### Hola 👋,  🚀¡Saludos,viajero del código! 
 
-![Banner](https://drive.google.com/file/d/1hjzNe3bLKwKYPlDD4MrRzUiJ-Fc3jQfe/view?usp=sharing)
+![Banner](https://drive.google.com/file/d/1hjzNe3bLKwKYPlDD4MrRzUiJ-Fc3jQfe/view?usp=sharing)](https://i.ibb.co/LPxg5k7/Negro-Tecnolog-a-Banner-de-Linked-In-1.png)
 
 
 💻 Actualmente estoy inmerso/a en el mundo de Java, explorando sus numerosas facetas y mejorando mis habilidades día a día.
