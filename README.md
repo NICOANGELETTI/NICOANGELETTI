@@ -40,8 +40,6 @@ En este repositorio, estaré compartiendo todos mis proyectos y trabajos . Cada 
 
 
 
-- 🔭 Estoy trabajando en esta seccion.
-
 
 
 
