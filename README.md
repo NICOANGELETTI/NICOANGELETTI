@@ -1,5 +1,6 @@
 ### Hola 👋,  🚀¡Saludos,viajero del código! 
-![](https://drive.google.com/file/d/1hjzNe3bLKwKYPlDD4MrRzUiJ-Fc3jQfe/view)
+
+![Banner](https://drive.google.com/file/d/1hjzNe3bLKwKYPlDD4MrRzUiJ-Fc3jQfe/view?usp=sharing)
 
 
 💻 Actualmente estoy inmerso/a en el mundo de Java, explorando sus numerosas facetas y mejorando mis habilidades día a día.
