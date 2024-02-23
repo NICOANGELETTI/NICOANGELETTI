@@ -7,25 +7,25 @@
 🎯 Mi objetivo es convertirme en un desarrollador backend altamente competente, aprovechando al máximo las tecnologías de Java y Spring Boot para crear soluciones eficientes y escalables.
 
 
-##### 🧠Desarrollo Backend: 
-Java 
-Java EE
- Servlets 
-JSP 
-Spring Boot 
-MySQL 
-JPA
-JDBC
+##### 🧠 Desarrollo Backend: 
+- Java 
+- Java EE 
+- Servlets 
+- JSP 
+- Spring Boot 
+- MySQL 
+- JPA
+- JDBC
 
+##### 🎨 Desarrollo Frontend:
+- HTML
+- CSS
+- Bootstrap
 
-#####     🎨Desarrollo Frontend:
-HTML
-CSS
-Bootstrap
 
 ##### 📝Control de Versiones:
-Git
-GitHub
+- Git
+- GitHub
 
 En este repositorio, estaré compartiendo todos mis proyectos y trabajos . Cada línea de código, cada proyecto en el que trabajo, encontrará su hogar aquí 🏡🔨 
 
