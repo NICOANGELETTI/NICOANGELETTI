@@ -1,6 +1,6 @@
 ### Hola 👋,  🚀¡Saludos,viajero del código! 
 
-[![Banner](https://i.ibb.co/LPxg5k7/Negro-Tecnolog-a-Banner-de-Linked-In-1.png)](enlace_a_tu_perfil_de_LinkedIn)
+[![Banner](https://i.ibb.co/LPxg5k7/Negro-Tecnolog-a-Banner-de-Linked-In-1.png)]
 
 
 
