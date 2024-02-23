@@ -40,7 +40,7 @@ En este repositorio, estaré compartiendo todos mis proyectos y trabajos . Cada 
 
 
 
-- 🔭 Estoy trabajando en this page. 
+- 🔭 Estoy trabajando en esta seccion.
 
 
 
