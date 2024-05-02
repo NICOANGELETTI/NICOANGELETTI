@@ -2,7 +2,6 @@
 
 
 
-![Banner](https://i.ibb.co/LPxg5k7/Negro-Tecnolog-a-Banner-de-Linked-In-1.png)
 
 
 
